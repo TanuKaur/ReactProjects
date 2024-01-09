@@ -7,3 +7,7 @@ Project List
 1.Counter Using React
 
   Live Link: https://react-counterapplication.netlify.app/
+  
+2.Plan With Tanu
+
+  Live Link: https://plan-with-tanu.netlify.app/

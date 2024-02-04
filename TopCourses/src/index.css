@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sizeClass{
+    @media (max-width:334px){
+        width:80%;
+    }
+}

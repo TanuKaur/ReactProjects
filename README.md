@@ -14,7 +14,7 @@ Project List
 
 3.Top Courses Project
 
-  Live Link: https://top-courses-display.netlify.app/
+  Live Link: https://coursedisplay.netlify.app/
 
 4.React Form
 
